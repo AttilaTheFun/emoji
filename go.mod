@@ -1,8 +1,8 @@
 module github.com/attilathefun/emoji
 
-go 1.14
+go 1.17
 
 require (
-	github.com/Succo/countrymoji v0.0.0-20200203190205-152a90d07fd6
-	golang.org/x/text v0.3.4
+	github.com/Succo/countrymoji v0.0.0-20210317211339-7eade43d6139
+	golang.org/x/text v0.3.7
 )
