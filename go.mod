@@ -1,6 +1,6 @@
 module github.com/attilathefun/emoji
 
-go 1.17
+go 1.19
 
 require (
 	github.com/Succo/countrymoji v0.0.0-20210317211339-7eade43d6139
